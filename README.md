@@ -1,2 +1,5 @@
 # hello-world
-This is my first time to Github!
+
+This is what the tutorial tells me to do, so anyway, I follow the instructions.
+
+
